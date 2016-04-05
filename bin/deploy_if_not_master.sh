@@ -13,7 +13,7 @@ if [ "${CI_BRANCH}" != "master" ]; then
   aws s3 mb s3://${HOSTNAME}${SUFFIX}
   aws s3 sync . s3://${HOSTNAME}${SUFFIX} --acl public-read --delete
   aws s3api put-bucket-lifecycle --bucket ${HOSTNAME}${SUFFIX} --lifecycle-configuration $LIFECYCLE_CONFIG
-  aws s3 website s3://${HOSTNAME}${SUFFIX} --index-document index.htm
+  aws s3 website s3://${HOSTNAME}${SUFFIX} --index-document default.htm
   aws sns publish --topic-arn $SNS_ARN --subject '[copsforkidsinc.org] Staging Deploy' \
     --message "Deploy of branch $CI_BRANCH can be viewed at http://${HOSTNAME}${SUFFIX}.s3-website-us-east-1.amazonaws.com/"
 
