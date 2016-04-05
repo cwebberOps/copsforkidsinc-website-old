@@ -1,0 +1,148 @@
+App.progressCountTotal = 18;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0447.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'IMG_0447.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0447_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0447_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0447_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0447_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0447_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0447_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0451.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'IMG_0451.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0451_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0451_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0451_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0451_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0451_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0451_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0452.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'IMG_0452.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0452_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0452_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0452_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0452_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0452_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0452_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0454.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'IMG_0454.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0454_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0454_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0454_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0454_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0454_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0454_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0456.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'IMG_0456.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0456_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0456_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0456_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0456_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0456_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0456_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0458.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'IMG_0458.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0458_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0458_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0458_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0458_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0458_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0458_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0459.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'IMG_0459.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0459_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0459_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0459_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0459_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0459_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0459_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0464.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'IMG_0464.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0464_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0464_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0464_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0464_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0464_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0464_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0466.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'IMG_0466.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0466_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0466_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0466_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0466_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0466_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0466_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0468.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'IMG_0468.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0468_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0468_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0468_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0468_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0468_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0468_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0470.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'IMG_0470.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0470_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0470_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0470_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0470_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0470_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0470_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0474.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'IMG_0474.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0474_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0474_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0474_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0474_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0474_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0474_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0475.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'IMG_0475.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0475_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0475_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0475_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0475_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0475_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0475_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0477.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'IMG_0477.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0477_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0477_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0477_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0477_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0477_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0477_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0485.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'IMG_0485.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0485_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0485_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0485_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0485_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0485_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0485_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0492.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'IMG_0492.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0492_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0492_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0492_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0492_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0492_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0492_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0545.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'IMG_0545.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0545_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0545_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0545_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0545_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0545_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0545_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/IMG_0550.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'IMG_0550.jpg';
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0550_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0550_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/images/IMG_0550_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0550_jpg.jpg') || confirm('file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0550_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///WEBDEV/Website_Dev/copsforkids_dev/images/Photo_gallery/banq_05/thumbnails/IMG_0550_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

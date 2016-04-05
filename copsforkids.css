@@ -1,0 +1,59 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+
+}
+
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+.heading {
+	text-transform: uppercase;
+	color: #0099FF;
+}
+
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+
+a:link {
+	color: #0099FF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #1A4A90;
+	text-decoration: none;
+}
+
+a.mainnav:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a.mainnav:visited {
+	color: #1A4A90;
+	text-decoration: none;
+}
+
+a.topnav:link {
+	color: #0099FF;
+	text-decoration: none;
+}
+
+a.topnav:visited {
+	color: #666666;
+	text-decoration: none;
+}
+.heading strong {
+	color: #F00;
+}
+.important {
+	color: #F00;
+}
